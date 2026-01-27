@@ -10,7 +10,7 @@ I'm a masters student in computer science interested in machine learning.
 
 ### Computer Vision & CNNs
 * **[CNN Fundamentals](https://github.com/nina-kasimova/cnn-fundamentals)** - Exploring kernels, matrix math, and sliding windows on MNIST digits.
-* **[Fashion MNIST: Backprop from Scratch](https://github.com/nina-kasimova/fashion-mnist)** - Manually calculating gradients, weights, and backpropagation for apparel classification.
+* **[Fashion MNIST: Backprop from Scratch](https://github.com/nina-kasimova/fashion-mnist)** - Manually calculating gradients, weights, and backpropagation for clotheing classification.
 
 ### Principal Component Analysis (PCA) for Dimensionality Reduction
 * **[PCA](https://github.com/nina-kasimova/pca-learning)** - PCA to reduce image dimensionality while preserving the most important variance
