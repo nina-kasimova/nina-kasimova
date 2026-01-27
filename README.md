@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**nina-kasimova/nina-kasimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a masters student in computer science interested in machine learning.
 
-Here are some ideas to get you started:
+## 🌟 Featured Portfolio
+> **[Visit my Full Portfolio Website](https://your-portfolio-link.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Featured Projects
+
+### Computer Vision & CNNs
+* **[CNN Fundamentals](https://github.com/nina-kasimova/cnn-fundamentals)** - Exploring kernels, matrix math, and sliding windows on MNIST digits.
+* **[Fashion MNIST: Backprop from Scratch](https://github.com/nina-kasimova/fashion-mnist)** - Manually calculating gradients, weights, and backpropagation for apparel classification.
+
+### Functional Programming
+* **[Haskell Dominoes](https://github.com/nina-kasimova/haskell)** - Implementing a domino player in Haskell
+
+---
+### 🛠️ Tech Stack
+**Languages:** Python  
+**Libraries:** PyTorch, Fastai, TensorFlow, NumPy
