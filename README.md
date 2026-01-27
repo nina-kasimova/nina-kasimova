@@ -2,7 +2,7 @@
 
 I'm a masters student in computer science interested in machine learning.
 
-## 🌟 Featured Portfolio
+## 🌟 My Portfolio
 > **[Visit my Full Portfolio Website](https://your-portfolio-link.com)**
 
 ---
