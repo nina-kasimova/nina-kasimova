@@ -8,6 +8,9 @@ I'm a masters student in computer science interested in machine learning.
 ---
 ## Featured Projects
 
+### Decision Trees
+* **[Theory of decision tree](https://github.com/nina-kasimova/decision-trees)** - Manually implementing a decision tree on a credit card fraud dataset
+
 ### Computer Vision & CNNs
 * **[CNN Fundamentals](https://github.com/nina-kasimova/cnn-fundamentals)** - Exploring kernels, matrix math, and sliding windows on MNIST digits.
 * **[Fashion MNIST: Backprop from Scratch](https://github.com/nina-kasimova/fashion-mnist)** - Manually calculating gradients, weights, and backpropagation for clotheing classification.
