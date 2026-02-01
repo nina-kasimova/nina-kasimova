@@ -8,6 +8,9 @@ I'm a masters student in computer science interested in machine learning.
 ---
 ## Featured Projects
 
+### Reddit predictions
+* **[Reddit predictions](https://github.com/nina-kasimova/reddit-predictions)** - predicting the virality of posts on reddit
+
 ### Decision Trees
 * **[Theory of decision tree](https://github.com/nina-kasimova/decision-trees)** - Manually implementing a decision tree on a credit card fraud dataset
 
