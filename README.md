@@ -8,6 +8,10 @@ I'm a masters student in computer science interested in machine learning.
 ---
 ## Featured Projects
 
+### Parameter-Efficient Fine-Tuning
+
+- [LoRA for CNNs](https://github.com/nina-kasimova/lora) - Implemented low-rank adapters (LoRA-C) for ResNet-101 convolutions and compared them with linear probing and full fine-tuning across rank, limited data, image corruptions and BatchNorm handling (<1% trainable parameters).
+
 ### Reddit predictions
 * **[Reddit predictions](https://github.com/nina-kasimova/reddit-predictions)** - predicting the virality of posts on reddit
 
